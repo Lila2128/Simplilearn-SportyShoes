@@ -35,8 +35,24 @@ The admin should be able to change his password if he wants, he should be able t
 <h2>Steps to run and open application</h2>
 <p>Run Phase3ProjectApplication.java file as java application or spring boot app in IDE.<br> Open Web browser and type 'http://localhost:8090/' if you haven't changed port in application.prperties file</p>
 
+<br>
+<h3>Tools Used</h3>
+<ol>
+	<li>Eclipse: An IDE to code for the application</li>
+	<li>Java: A programming language to develop the prototype</li>
+	<li>MySQL: To create tables for admin, classes, students, and other specifics</li>
+	<li>Maven: A build tool for adding all the external dependencies</li>
+	<li>Git: To connect and push files from the local system to GitHub</li>
+	<li>GitHub: To store the application code and track its versions</li>
+</ol>
 
-
+<h3>Techniques Used:</h3>
+<ol>
+	<li>Spring Boot : Popular Java Framework to acheive inversion of control and dependency injection</li>
+	<li>Spring MVC : Model View Controller by Spring</li>
+	<li>Spring Security : To manage user logins and restrict access based on user roles.</li>
+	<li>Thymeleaf : A popular template engine to design view layer</li>
+</ol>
 
  
 
